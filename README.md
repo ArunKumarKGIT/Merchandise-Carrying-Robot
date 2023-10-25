@@ -28,6 +28,7 @@ WORKING:
 This robot is designed such that it follows a pre-defined route autonomously and stops when there is an obstacle or hindrance and continues to move forward when the path is clear until it reaches the destination.
 The vehicle is made with two IR sensors( separated by a distance equal to that of the width of the black line ) placed at the front of the vehicle facing downwards(towards the ground) and another IR sensor facing the forward direction ( to detect the obstacle ).
 The Arduino UNO , L298N Driver Module are mounted on the vehicular frame along with the two motors connected to the wheel .The required connections are made between the components .Here, the IR sensors play an important role in guiding the robot along the Black Line(pre-defined path).
+
 ![p1](https://github.com/ArunKumarKGIT/Merchandise-Carrying-Robot/assets/77446060/3ce30155-c5c3-4bb2-861a-9d5bb27c46f1)
 
 ##  IR SENSOR:
