@@ -44,10 +44,9 @@ In the medical field, a line follower can be used for automated stretchers that 
 
 There are many applications for the line follower in our world today. It is used especially in industrial environment, performing tasks such as transportation, manipulation of different objects and as a replacement for conveyer belts. They are also well suited for domestic applications, such as floor cleaning or as service robots that follow you. In the future, the concept of the line follower is expected to be applied in several markets, including medical, transportation and construction.
 
+![prototype](https://github.com/ArunKumarKGIT/Merchandise-Carrying-Robot/assets/77446060/354f84ff-ee8b-45b1-9abe-76d4ba89e044)
 
-
-
-
+![prototype1](https://github.com/ArunKumarKGIT/Merchandise-Carrying-Robot/assets/77446060/8198edfe-b487-4742-960b-ad4a14916352)
 
 
 
