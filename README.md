@@ -1,7 +1,7 @@
 # Merchandise-Carrying-Robot
 
 ##  INTRODUCTION:
-As technology becomes increasingly important in today's world, it is inevitable to not only learn how to use technology but also to innovate new ideas. Nowadays, automation of tasks can be seen implemented everywhere, but still, some places lack its implementation like rice mills where food grain are carried in gunny bags by manpower. There are many disadvantages of this kind of transportation, because it is time-consuming, labor-intensive, economical, and also, using of hooks/manual handling makes gunny bags prone to leakage & pilferage. The record keeping/gunny counting is also done manually. Automation of these transportation task has the advantage of :
+As technology becomes increasingly important in today's world, it is inevitable to not only learn how to use technology but also to innovate new ideas. Nowadays, automation of tasks can be seen implemented everywhere, but still, some places lack its implementation like rice mills where food grain are carried in gunny bags by manpower. There are many disadvantages of this kind of transportation, because it is time-consuming, labor-intensive, uneconomical, and also, using of hooks/manual handling makes gunny bags prone to leakage & pilferage. The record keeping/gunny counting is also done manually. Automation of these transportation task has the advantage of :
 1. Quick turn-around time for loading/unloading operation.
 2. Exact counting of bags handled.
 3. Cost-effective. 
